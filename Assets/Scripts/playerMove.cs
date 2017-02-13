@@ -2,7 +2,7 @@
 using System.Collections;
 
 //[RequireComponent(typeof(CharacterController))]
-public class playerMove : MonoBehaviour {
+public class playerMove : MonoBehaviour { 
     public Vector3 targetDir;
     public float moveSpeed = 5f;
     public float turnSpeed = .05f;        
