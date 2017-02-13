@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: c10983035b98f9b4aa88b9b7ffedc1ab
+timeCreated: 1486917729
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _----
+    100002: _---------
+    100004: _----1
+    100006: _----2
+    100008: Arms
+    100010: Body
+    100012: By_Forrest
+    100014: Enjoy___
+    100016: hands
+    100018: Helmet
+    100020: Legs
+    100022: Lights
+    100024: //RootNode
+    100026: Nanosuit_2
+    100028: Ripped_fro
+    100030: The_first_
+    100032: Visor
+    400000: _----
+    400002: _---------
+    400004: _----1
+    400006: _----2
+    400008: Arms
+    400010: Body
+    400012: By_Forrest
+    400014: Enjoy___
+    400016: hands
+    400018: Helmet
+    400020: Legs
+    400022: Lights
+    400024: //RootNode
+    400026: Nanosuit_2
+    400028: Ripped_fro
+    400030: The_first_
+    400032: Visor
+    2300000: _----
+    2300002: _---------
+    2300004: _----1
+    2300006: _----2
+    2300008: Arms
+    2300010: Body
+    2300012: By_Forrest
+    2300014: Enjoy___
+    2300016: hands
+    2300018: Helmet
+    2300020: Legs
+    2300022: Lights
+    2300024: Nanosuit_2
+    2300026: Ripped_fro
+    2300028: The_first_
+    2300030: Visor
+    3300000: _----
+    3300002: _---------
+    3300004: _----1
+    3300006: _----2
+    3300008: Arms
+    3300010: Body
+    3300012: By_Forrest
+    3300014: Enjoy___
+    3300016: hands
+    3300018: Helmet
+    3300020: Legs
+    3300022: Lights
+    3300024: Nanosuit_2
+    3300026: Ripped_fro
+    3300028: The_first_
+    3300030: Visor
+    4300000: _---------
+    4300002: _----2
+    4300004: Nanosuit_2
+    4300006: Ripped_fro
+    4300008: By_Forrest
+    4300010: The_first_
+    4300012: Enjoy___
+    4300014: _----
+    4300016: _----1
+    4300018: Helmet
+    4300020: Visor
+    4300022: Lights
+    4300024: Body
+    4300026: Arms
+    4300028: hands
+    4300030: Legs
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
